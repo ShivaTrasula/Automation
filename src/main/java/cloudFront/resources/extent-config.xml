@@ -1,0 +1,6 @@
+<configuration>
+    <reportName>Automation Test Report</reportName>
+    <documentTitle>Selenium Test Report</documentTitle>
+    <theme>STANDARD</theme>
+    <encoding>utf-8</encoding>
+</configuration>
